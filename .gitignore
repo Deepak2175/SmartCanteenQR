@@ -1,0 +1,10 @@
+scqrbackup/
+backup/
+app.rar
+node_modules/
+.env
+uploads/
+*.db
+*.db-shm
+*.db-wal
+dist/
